@@ -1,2 +1,3 @@
-# Automa-o-de-tarefas-cootidianas
-Automatizando atividades cotidianas e maçantes que desperdiçariam o tempo de quem trabalha com escritorios.
+#Automação de tarefas cotidianas
+Este repositório contém projetos de automação para Google Docs, Sheets e outros aplicativos do Google.
+O objetivo desses scripts é otimizar processos, economizando tempo e recursos. Todas as automações foram desenvolvidas por mim.
